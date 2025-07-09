@@ -1,0 +1,4 @@
+{
+    "command": "chmod +x startup.sh && sudo ./startup.sh &",
+    "working_directory": "/home/kavia/workspace/code-generation/healthcare-nurse-dispatch-system-4e2488df/nurse_dispatch_database"
+}
